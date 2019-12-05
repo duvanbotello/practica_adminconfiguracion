@@ -3,7 +3,7 @@ public class Calculadora{
 
     }
 
-    public double suma(int a, int b){
+    public String suma(String a, String b){
         return a + b;
     }
 
