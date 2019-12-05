@@ -1,5 +1,14 @@
+import java.util.Scanner;
 public class Calculadora{
     public static void main(String[] arg){
+
+        Scanner leer = new Scanner(System.in);
+
+        system.out.print('Ingrese Numero a');
+        int a = leer.nextInt();
+        system.out.print('Ingrese Numero b');
+        int a = leer.nextInt();
+    
 
     }
 
