@@ -3,7 +3,11 @@ public class Calculadora{
 
     }
 
-    public int suma(int a, int b){
+    public double suma(int a, int b){
         return a + b;
+    }
+
+    public double resta(int a, int b){
+        return a - b;
     }
 }
