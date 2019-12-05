@@ -10,4 +10,8 @@ public class Calculadora{
     public double resta(int a, int b){
         return a - b;
     }
+
+     public double division(int a, int b){
+        return a / b;
+    }
 }
